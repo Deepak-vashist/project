@@ -42,7 +42,7 @@ const Sidebar = () => {
             ></div>
           </div>
           <img src={profile_img} className="" alt="Profile_photo" />
-          <h4>Saurabh Dhull</h4>
+          <h4>Deepak Vashist</h4>
           <p>I am a Frontend Developer</p>
         </div>
         {/* sidebar_top end */}
@@ -61,7 +61,7 @@ const Sidebar = () => {
             </div>
             <div>
               <h5>Age :</h5>
-              <p>20</p>
+              <p>22</p>
             </div>
           </div>
           {/* about section end */}
@@ -91,7 +91,7 @@ const Sidebar = () => {
               </div>
             </div>
             <div>
-              <h5 className="m-1">BOOTSTRAP & TAILWIND</h5>
+              <h5 className="m-1">BOOTSTRAP</h5>
               <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4 dark:bg-gray-700">
                 <div
                   className="h-1.5 rounded-full animation3"
@@ -100,7 +100,7 @@ const Sidebar = () => {
               </div>
             </div>
             <div>
-              <h5 className="m-1">JQUERY</h5>
+              <h5 className="m-1">AJAX</h5>
               <div className="w-full bg-gray-200 rounded-full h-1.5 mb-4 dark:bg-gray-700">
                 <div
                   className="h-1.5 rounded-full animation4"

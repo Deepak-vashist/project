@@ -11,7 +11,7 @@ const About = () => {
         <div className="about-div">
           <h2>Hii There</h2>
           <div>
-            I am Saurabh dhull, web developer. I have rich experience in website
+            I am Deepak Vashist, web developer. I have rich experience in website
             building and customization, and also have Good knowledge of HTML,
             CSS, JS, React, Bootstrap, Tailwind, Git, Github, Visual studio code
           </div>
@@ -23,10 +23,10 @@ const About = () => {
             and innovative work environment.
           </div>
           <br />
-          <div>Name: Saurabh Dhull</div>
+          <div>Name: Deepak Vashist</div>
           <div>Location: Sonipat, Haryana</div>
-          <div>Birthday: 22 January,2022</div>
-          <div>Email: dhullsaurabh3111@gmail.com</div>
+          <div>Birthday: 31 July,2023</div>
+          <div>Email: deepakvini18@gmail.com</div>
         </div>
       </div>
       {/* services start */}

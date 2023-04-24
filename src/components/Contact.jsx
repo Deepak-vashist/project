@@ -43,11 +43,11 @@ const Contact = () => {
             <h4>Contact Info</h4>
             <div>
               <img src={call} alt="" />
-              <p>+91 981747460</p>
+              <p>+91 9817285394</p>
             </div>
             <div>
               <img src={mail} alt="" />
-              <p>dhullaurabh3111@gamil.com</p>
+              <p>deepakvinit18@gamil.com</p>
             </div>
             <div className="social_contact"></div>
           </div>
@@ -61,7 +61,7 @@ const Contact = () => {
               Feel Free to contact me any time. I will get back to you as soon
               as I can!.
             </p>
-            <form action="mailto:dhullsaurabh3111@gmail.com" method="POST" onSubmit={submithandler}>
+            <form action="mailto:deeepakvinit18@gmail.com" method="POST" onSubmit={submithandler}>
               <input
                 type="text"
                 name="name"

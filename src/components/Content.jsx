@@ -48,7 +48,7 @@ const Content = () => {
             ></div>
           </div>
           <img src={profile_img} className="" alt="Profile_photo" />
-          <h4>Saurabh Dhull</h4>
+          <h4>Deepak Vashist</h4>
           <p>I am a Frontend Developer</p>
         </div>
         {/* sidebar_top end */}
@@ -196,7 +196,7 @@ const Content = () => {
             &lt;/
             <span>code</span>&gt;
           </div>
-          <a href="mailto:dhullsaurabh3111@gmail.com">
+          <a href="mailto:deepakvinit18@gmail.com">
             <button className="animate-bounce">HIRE ME</button>
           </a>
         </div>
